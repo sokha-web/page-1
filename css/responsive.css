@@ -1,0 +1,26 @@
+
+@media (max-width: 1115px) {
+	.img {
+		width: 48%;
+	}
+}
+
+@media (max-width: 480px)  {
+	.img1{
+		width: 100%;
+	}
+}
+
+
+
+
+
+/*Responsive header*/
+@media (max-width: 768px) {
+	.nav {
+		display: none;
+	}
+	.burger-icon {
+		display: none;
+	}
+}
